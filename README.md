@@ -1,6 +1,4 @@
 # Mini-Online-Order-System
-Here's a brief documentation for the provided code:
-
 #### Overview:
 This code is a simple ordering system for a store selling LED lighting lamps. It allows customers to select items, choose shipping options, and calculates the total cost of their order.
 
