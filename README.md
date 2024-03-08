@@ -32,7 +32,4 @@ This code is a simple ordering system for a store selling LED lighting lamps. It
 #### Discounts:
 - Customers receive a 20% discount on the total bill if they purchase more than 5 items.
 
-#### Note:
-- The use of goto statements for error handling and flow control is discouraged as it makes the code less readable and harder to maintain. Consider using loops and conditional statements instead.
 
-This documentation provides an overview of the code's functionality and flow, making it easier for others to understand and maintain the code in the future.
